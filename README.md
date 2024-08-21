@@ -1,20 +1,18 @@
 # Cloud-Security-with-AWS-IAM
-In this project, I use AWS to - Launch **EC2** instances.
+In this project, I used AWS to - Launch **EC2** instances.
 - Use **tags** for easy identification.
 - Set up **IAM policies** accessing EC2 instances based on their environment (development or production).
 - Create an **IAM user** and assign them to the appropriate user group with the necessary permissions for their role.
-- **Test IAM access** for the User you've created.
+- **Test IAM access** for the User I created.
 
 
 <h2>AWS Services Used </h2>
 
-- <b>AWS Portal</b> 
-- <b>AWS Portal</b>
-- <b>AWS Portal</b>  
-- <b>AWS Portal</b> 
-- <b>AWS Portal</b>
+- <b>**AWS Portal**</b> 
+- <b>**Amazon** **EC2**</b>
+- <b>**Amazon** **IAM**</b>  
   
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
  I started this project by using the Azure CLI to create an Azure resource group named datacenterhq1: <br/>
