@@ -1,5 +1,7 @@
 # Cloud-Security-with-AWS-IAM
-In this project, I used AWS to - Launch **EC2** instances.
+In this project, I used AWS IAM to create a user, user group, and policy and to secure resource
+from having unauthorised access and actions done to my AWS EC2 instances.
+- Launch **EC2** instances.
 - Use **tags** for easy identification.
 - Set up **IAM policies** accessing EC2 instances based on their environment (development or production).
 - Create an **IAM user** and assign them to the appropriate user group with the necessary permissions for their role.
@@ -15,11 +17,14 @@ In this project, I used AWS to - Launch **EC2** instances.
 <h2>Project walk-through:</h2>
 
 <p align="center">
- I started this project by using the Azure CLI to create an Azure resource group named datacenterhq1: <br/>
-<img src="https://i.imgur.com/GLpBWvY.png" height="80%" width="80%" />
+ I started this project by Launch EC2 Instances with Tags: <br/>
+  <b>I first created my Instances for this project</b>
+ <img src="https://i.imgur.com/GLpBWvY.png" height="80%" width="80%" />
 <br />
 <br />
-I then verified the creation of datacenterhq1 in the portal:  <br/>
+ I selected, add additional tags which is right next to the Name field, and added a new tag with the following Key and Value.<br/>
+        <b>Key = Env<br/>
+        <b>Value = production<br/>
 <img src="https://i.imgur.com/X4NrErw.png" height="80%" width="80%" />
 <br />
 <br />
