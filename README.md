@@ -25,7 +25,7 @@ from having unauthorised access and actions done to my AWS EC2 instances.
  I selected, add additional tags which is right next to the Name field, and added a new tag as follows:<br/>
         <b>•Key = Env<br/>
         <b>•Value = production<br/>
- <img src="https://i.imgur.com/X4NrErw.png" height="80%" width="80%" />
+ <img src="https://github.com/Tanakagi/Cloud-Security-with-AWS-IAM/blob/3859658b718cab46559e818f4ad52662b25a46fb/Project%20images/image%202.png" height="80%" width="80%" />
 <br />
 <br />
  I choose to proceed without a key pair for Key Pair because this isn’t a long-running instance I will be using.<br/>
