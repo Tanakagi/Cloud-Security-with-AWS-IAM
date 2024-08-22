@@ -19,7 +19,7 @@ from having unauthorised access and actions done to my AWS EC2 instances.
 <p align="left">
  I started this project by Launch EC2 Instances with Tags: <br/>
   <b>I first created my Instances for this project</b>
- <img src="https://i.imgur.com/GLpBWvY.png" height="80%" width="80%" />
+ <img src="https://github.com/Tanakagi/Cloud-Security-with-AWS-IAM/blob/88ce441e5b1ce7ee19f5121d70bc3262df613f17/Project%20images/image%201.png" height="80%" width="80%" />
 <br />
 <br />
  I selected, add additional tags which is right next to the Name field, and added a new tag as follows:<br/>
