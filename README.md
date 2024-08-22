@@ -28,20 +28,93 @@ from having unauthorised access and actions done to my AWS EC2 instances.
 <img src="https://i.imgur.com/X4NrErw.png" height="80%" width="80%" />
 <br />
 <br />
-Once the resource group was created I used the CLI to create a storage account named storesyncrsa:  <br/>
+ I choose to proceed without a key pair for Key Pair because this isn’t a long-running instance I will be using.
+ Then Clicked  Launch instance. <br/>
  <img src="https://i.imgur.com/7b2RgoZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-I then verified the creation of storesyncrsa in the portal:  <br/>
+Then I  created one more EC2 instance for the development environment, where developers can write, test, and debug code before it's deployed to production. And also a live environment that end users can use.  <br/>
 <img src="https://i.imgur.com/OoWzpZQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
 <br />
-After creating the storage account storesyncrsa, I started the creation of the file share fileshare1rsa:  <br/>
+I used the same configuration as the previous instance, with the only difference being the tag value for Env.  <br/>
 <img src="https://i.imgur.com/5sQdSgi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-I verified the creation of the file share fileshare1rsa in the portal.:  <br/>
+I then launched the instance.  <br/>
+<img src="https://i.imgur.com/5cwEE9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+I then created a new directory named rsadirectory at the root of fileshare1rsa using the portal:  <br/>
+<img src="https://i.imgur.com/2e2TM1X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+I then launched the instance.  <br/>
+<img src="https://i.imgur.com/5cwEE9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+I then created a new directory named rsadirectory at the root of fileshare1rsa using the portal:  <br/>
+<img src="https://i.imgur.com/2e2TM1X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+I then launched the instance.  <br/>
+<img src="https://i.imgur.com/5cwEE9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+I then created a new directory named rsadirectory at the root of fileshare1rsa using the portal:  <br/>
+<img src="https://i.imgur.com/2e2TM1X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+I then launched the instance.  <br/>
+<img src="https://i.imgur.com/5cwEE9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+I then created a new directory named rsadirectory at the root of fileshare1rsa using the portal:  <br/>
+<img src="https://i.imgur.com/2e2TM1X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+I then launched the instance.  <br/>
+<img src="https://i.imgur.com/5cwEE9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+I then created a new directory named rsadirectory at the root of fileshare1rsa using the portal:  <br/>
+<img src="https://i.imgur.com/2e2TM1X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+I then launched the instance.  <br/>
+<img src="https://i.imgur.com/5cwEE9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+I then created a new directory named rsadirectory at the root of fileshare1rsa using the portal:  <br/>
+<img src="https://i.imgur.com/2e2TM1X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+I then launched the instance.  <br/>
+<img src="https://i.imgur.com/5cwEE9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+I then created a new directory named rsadirectory at the root of fileshare1rsa using the portal:  <br/>
+<img src="https://i.imgur.com/2e2TM1X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+I then launched the instance.  <br/>
+<img src="https://i.imgur.com/5cwEE9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+I then created a new directory named rsadirectory at the root of fileshare1rsa using the portal:  <br/>
+<img src="https://i.imgur.com/2e2TM1X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+  I then launched the instance.  <br/>
+<img src="https://i.imgur.com/5cwEE9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+I then created a new directory named rsadirectory at the root of fileshare1rsa using the portal:  <br/>
+<img src="https://i.imgur.com/2e2TM1X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+  I then launched the instance.  <br/>
 <img src="https://i.imgur.com/5cwEE9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
