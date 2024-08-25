@@ -2,7 +2,7 @@
 In this project, I used AWS IAM to create a user, user group, and policy and to secure resource
 from having unauthorised access and actions done to my AWS EC2 instances.
 
- # Task list:
+## Task list:
 - Launch **EC2** instances.
 - Use **tags** for easy identification.
 - Set up **IAM policies** accessing EC2 instances based on their environment (development or production).
